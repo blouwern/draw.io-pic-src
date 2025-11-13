@@ -1,0 +1,202 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="第 1 页" id="uXwcHrDDR83nOISNZZC2">
+    <mxGraphModel dx="574" dy="334" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="560" pageHeight="420" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-1" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="200" as="sourcePoint" />
+            <mxPoint x="60" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-2" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="200" as="sourcePoint" />
+            <mxPoint x="123" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-3" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=0;strokeColor=light-dark(#00ff00, #ededed);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="120" as="sourcePoint" />
+            <mxPoint x="183" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-4" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="160" as="sourcePoint" />
+            <mxPoint x="183" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="183" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-7" value="" style="curved=1;endArrow=oval;html=1;rounded=0;endFill=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="124" y="200" as="sourcePoint" />
+            <mxPoint x="180" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="200" />
+              <mxPoint x="160" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-9" value="" style="curved=1;endArrow=oval;html=1;rounded=0;endFill=0;strokeColor=light-dark(#00ff00, #ededed);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="123" y="200" as="sourcePoint" />
+            <mxPoint x="180" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="200" />
+              <mxPoint x="150" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-10" value="&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(0, 0, 255), rgb(237, 237, 237));&quot;&gt;主分支&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="77" y="179" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-13" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;分支B&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#00ff00, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="82" y="100" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;分支A&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="82" y="140" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-15" value="&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(0, 0, 255), rgb(237, 237, 237));&quot;&gt;一些更改&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-16" value="" style="curved=1;endArrow=oval;html=1;rounded=0;endFill=0;fillColor=#e51400;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="200" as="sourcePoint" />
+            <mxPoint x="243" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="213" y="200" />
+              <mxPoint x="223" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-17" value="" style="curved=1;endArrow=oval;html=1;rounded=0;endFill=0;strokeColor=light-dark(#0000FF,#EDEDED);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="200" as="sourcePoint" />
+            <mxPoint x="243" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="213" y="200" />
+              <mxPoint x="213" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="193" y="200" as="sourcePoint" />
+            <mxPoint x="183" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-19" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="306" y="160" as="sourcePoint" />
+            <mxPoint x="246" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="246" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-20" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=0;strokeColor=light-dark(#00ff00, #ededed);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="306" y="120" as="sourcePoint" />
+            <mxPoint x="246" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="165" as="sourcePoint" />
+            <mxPoint x="243" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-22" value="&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;出现不兼容的bug&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="64" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="306" y="165" as="sourcePoint" />
+            <mxPoint x="306" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-24" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;对同一段&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;代码C&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;各自修改至兼容&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;方法A&lt;/font&gt;和&lt;font style=&quot;color: rgb(0, 255, 0);&quot;&gt;方法B&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="39" width="74" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="308" y="200" as="sourcePoint" />
+            <mxPoint x="362" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-27" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="187" y="200" as="sourcePoint" />
+            <mxPoint x="306" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-28" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;几个月后&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="308" y="201" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309" y="160" as="sourcePoint" />
+            <mxPoint x="358" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#00FF00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309" y="120" as="sourcePoint" />
+            <mxPoint x="358" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-32" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="sourcePoint" />
+            <mxPoint x="363" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-33" value="" style="curved=1;endArrow=oval;html=1;rounded=0;endFill=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="160" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="391" y="159" />
+              <mxPoint x="391" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-35" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;分支A&lt;/font&gt;合并&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="392" y="201" width="55" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-37" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="200.72" as="sourcePoint" />
+            <mxPoint x="423" y="200.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-38" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=0;strokeColor=light-dark(#00ff00, #ededed);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="418" y="120" as="sourcePoint" />
+            <mxPoint x="358" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-39" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;strokeColor=light-dark(#00ff00, #ededed);dashed=1;dashPattern=8 8;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="421" y="119" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="448" y="119" />
+              <mxPoint x="453" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-40" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 255, 0);&quot;&gt;分支B&lt;/font&gt;合并失败&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;代码C&lt;/font&gt;处发生冲突&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="453" y="154" width="80" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Ew_BXMi7QedcwO3wbN3S-41" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="446" y="155" width="11" height="14" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
